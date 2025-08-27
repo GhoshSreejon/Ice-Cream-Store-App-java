@@ -1,4 +1,5 @@
-# 🍦 Ice Cream Store Inventory Management (Java + JUnit 5)
+# 🍦 Ice Cream Store Inventory Management 
+## (Java + JUnit 5)
 
 A simple **Java-based Ice Cream Store inventory management system** with a **menu-driven CLI** and a **JUnit 5 test suite**.  
 This project demonstrates **QA mindset** with both **happy path & edge case testing**, and a design that can **scale to role-based access (Admin vs Customer)**.
